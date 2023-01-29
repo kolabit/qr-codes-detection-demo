@@ -4,5 +4,5 @@ This project demonstrates the QR codes detection model, based on [Ultralytics YO
 Demo is based on [Udacity self-driving-car demo](https://share.streamlit.io/streamlit/demo-self-driving)
 
 # Run demo:
-Open the [Streamlit QR codes detection demo page] (https://kolabit-qr-codes-detection-demo-streamlit-app-wuj4pl.streamlit.app)
+Open the [Streamlit QR codes detection demo page](https://kolabit-qr-codes-detection-demo-streamlit-app-wuj4pl.streamlit.app)
 
